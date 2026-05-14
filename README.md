@@ -1,17 +1,14 @@
-# GitHub Training Project - Leon Template
-
-مشروع ويب تعليمي يهدف لتطبيق مهارات التعامل مع Git و GitHub. القالب عبارة عن صفحة هبوط (Landing Page) احترافية لوكالة إبداعية، وتتميز بتصميم عصري ومتجاوب.
-
-* **HTML5**: لهيكلة محتوى الموقع بشكل دلالي.
-* **CSS3**: للتنسيق واستخدام نظام (Grid) والمتغيرات.
-* **Normalize.css**: لضمان اتساق العرض على جميع المتصفحات.
-* **Google Fonts**: استخدام خط (Work Sans).
-
-* **Responsive Design**: الموقع متوافق تماماً مع كافة أحجام الشاشات.
-* **GitHub Pages**: المشروع منشور ويعمل كنسخة حية.
-
-1. قم بتحميل المشروع أو عمل `git clone`.
-2. افتح ملف `index.html` باستخدام أي متصفح ويب.
-
-## اسم الطالب& الرقم الجامعي 
-**Hamdemahdemushtaha-120226458**
+GitHub Training Project - Leon Template
+This project is a web development assignment designed to demonstrate proficiency in Git and GitHub workflow. The project features a professional Landing Page ("Leon Agency") with a clean, modern design.
+**HTML5**: Semantic structure.
+**CSS3**: Custom properties, Flexbox, and CSS Grid.
+**Normalize.css**: For cross-browser style consistency.
+**Google Fonts**: "Work Sans" typography.
+**Font Awesome**: Professional icons.
+**Responsive Design**: Fully compatible with Mobile, Tablet, and Desktop screens.
+**GitHub Pages**: Project is hosted live.
+**Organized Structure**: Clear folder hierarchy for CSS and Images.
+1. Clone the repository: `git clone https://github.com/hamde1/pro.git`
+2. Open `index.html` in any modern web browser.
+**Hamdemahdemushtaha**
+**120226458**
